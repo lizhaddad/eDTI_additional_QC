@@ -21,7 +21,6 @@ ENIGMA_FA_Template=${dir}/ENIGMA_DTI_TBSS/ENIGMA_DTI_FA.nii.gz
 TBSS_run_folder=${dir}/example_tbss_output
 
 # PATH TO THE qc_image_generation_nomask.py SCRIPT 
-## (can be downloaded from here **ADD LINK**)
 QCpng=${dir}/qc_image_generation_nomask.py
 
 # FILE SUFFIXES
